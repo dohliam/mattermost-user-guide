@@ -39,6 +39,8 @@ Requirements:
   * kramdown gem
 * wkhtmltopdf
 
+Make sure to edit the [configuration file](#configuration) before building the guide.
+
 Run `build_guide.rb` from the repository folder:
 
     ./build_guide.rb
