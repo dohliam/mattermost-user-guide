@@ -1,0 +1,13 @@
+# Configuration options for generating the Mattermost User Guide
+
+# The content of the header line at the top of the cover page:
+:header_line: "HEADER_LINE"
+
+# The name of your organization as you wish it to appear in the guide:
+:organization_name: "ORGANIZATION_NAME"
+
+# The full address of your Mattermost server, beginning with https://
+:server_address: "SERVER_ADDRESS"
+
+# Your preferred date format:
+:date_format: "%B %d, %Y"
